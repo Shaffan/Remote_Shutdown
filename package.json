@@ -1,0 +1,17 @@
+{
+  "name": "remote_shutdown",
+  "version": "1.0.0",
+  "description": "My app",
+  "scripts": {
+    "start": "electron ."
+  },
+  "main": "main.js",
+  "author": "Stefan Horne",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  },
+  "dependencies": {
+    "angular": "^1.5.8"
+  },
+  "license": "ISC"
+}

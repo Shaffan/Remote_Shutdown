@@ -1,0 +1,40 @@
+02.08.2016, 14:24:41 - TypeError: Cannot read property 'listen' of null
+    at Object.start (C:\Users\hornes\Documents\Dev\Mobile app\app\server\main.js:18:13)
+    at EventEmitter.electron.ipcMain.on (C:\Users\hornes\Documents\Dev\Mobile app\app\main.js:35:26)
+    at emitOne (events.js:96:13)
+    at EventEmitter.emit (events.js:188:7)
+    at EventEmitter.<anonymous> (C:\Users\hornes\Documents\Dev\Mobile app\app\node_modules\electron-prebuilt\dist\resources\electron.asar\browser\api\web-contents.js:156:13)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7) :
+02.08.2016, 14:36:16 - TypeError: Cannot read property 'listen' of null
+    at Object.start (C:\Users\hornes\Documents\Dev\Mobile app\app\server\main.js:18:13)
+    at EventEmitter.electron.ipcMain.on (C:\Users\hornes\Documents\Dev\Mobile app\app\main.js:35:26)
+    at emitOne (events.js:96:13)
+    at EventEmitter.emit (events.js:188:7)
+    at EventEmitter.<anonymous> (C:\Users\hornes\Documents\Dev\Mobile app\app\node_modules\electron-prebuilt\dist\resources\electron.asar\browser\api\web-contents.js:156:13)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7) :
+05.08.2016, 12:45:27 - ReferenceError: app is not defined
+    at Object.start (C:\Users\hornes\Documents\Dev\Mobile app\app\server\main.js:16:40)
+    at EventEmitter.ipcMain.on (C:\Users\hornes\Documents\Dev\Mobile app\app\main.js:110:24)
+    at emitOne (events.js:96:13)
+    at EventEmitter.emit (events.js:188:7)
+    at EventEmitter.<anonymous> (C:\Users\hornes\AppData\Roaming\npm\node_modules\electron-prebuilt\dist\resources\electron.asar\browser\api\web-contents.js:156:13)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7) :
+05.08.2016, 12:46:37 - ReferenceError: app is not defined
+    at Object.start (C:\Users\hornes\Documents\Dev\Mobile app\app\server\main.js:16:40)
+    at EventEmitter.ipcMain.on (C:\Users\hornes\Documents\Dev\Mobile app\app\main.js:110:24)
+    at emitOne (events.js:96:13)
+    at EventEmitter.emit (events.js:188:7)
+    at EventEmitter.<anonymous> (C:\Users\hornes\AppData\Roaming\npm\node_modules\electron-prebuilt\dist\resources\electron.asar\browser\api\web-contents.js:156:13)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7) :
+05.08.2016, 13:50:24 - ReferenceError: url is not defined
+    at Object.start (C:\Users\hornes\Documents\Dev\Mobile app\app\server\main.js:17:27)
+    at EventEmitter.ipcMain.on (C:\Users\hornes\Documents\Dev\Mobile app\app\main.js:115:24)
+    at emitOne (events.js:96:13)
+    at EventEmitter.emit (events.js:188:7)
+    at EventEmitter.<anonymous> (C:\Users\hornes\AppData\Roaming\npm\node_modules\electron-prebuilt\dist\resources\electron.asar\browser\api\web-contents.js:156:13)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:191:7) :
